@@ -40,7 +40,6 @@
 # elif x < 0 and y < 0: 
 #     print(3)
 
-
 # 10 10
 # a b
 # b - 45 < 0
@@ -66,3 +65,7 @@ print(res1)
 print(res2)
 print(res3)
 print(res4)
+
+# commit - push
+# pull
+# fetch - pull - commit - push
